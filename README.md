@@ -1,4 +1,4 @@
-# WhoisOSINT
+# WhoisOSINT by Compendium AC
 
 CLI tools for enriching domains with WHOIS, DNS, HTTP, TLS, tracker, and GeoIP
 data, plus a reporting tool that clusters domains based on shared indicators.
